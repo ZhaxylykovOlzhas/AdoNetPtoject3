@@ -1,0 +1,13 @@
+c:\users\жаксылыково\source\repos\AdoNetRelashionShipLesson\AdoNetRelashionShipLesson\obj\Debug\AdoNetRelashionShipLesson.csprojAssemblyReference.cache
+c:\users\жаксылыково\source\repos\AdoNetRelashionShipLesson\AdoNetRelashionShipLesson\obj\Debug\AdoNetRelashionShipLesson.csproj.CoreCompileInputs.cache
+c:\users\жаксылыково\source\repos\AdoNetRelashionShipLesson\AdoNetRelashionShipLesson\bin\Debug\AdoNetRelashionShipLesson.exe.config
+c:\users\жаксылыково\source\repos\AdoNetRelashionShipLesson\AdoNetRelashionShipLesson\bin\Debug\AdoNetRelashionShipLesson.exe
+c:\users\жаксылыково\source\repos\AdoNetRelashionShipLesson\AdoNetRelashionShipLesson\bin\Debug\AdoNetRelashionShipLesson.pdb
+c:\users\жаксылыково\source\repos\AdoNetRelashionShipLesson\AdoNetRelashionShipLesson\bin\Debug\EntityFramework.dll
+c:\users\жаксылыково\source\repos\AdoNetRelashionShipLesson\AdoNetRelashionShipLesson\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\жаксылыково\source\repos\AdoNetRelashionShipLesson\AdoNetRelashionShipLesson\bin\Debug\EntityFramework.xml
+c:\users\жаксылыково\source\repos\AdoNetRelashionShipLesson\AdoNetRelashionShipLesson\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\жаксылыково\source\repos\AdoNetRelashionShipLesson\AdoNetRelashionShipLesson\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\жаксылыково\source\repos\AdoNetRelashionShipLesson\AdoNetRelashionShipLesson\obj\Debug\AdoNetRelashionShipLesson.csproj.CopyComplete
+c:\users\жаксылыково\source\repos\AdoNetRelashionShipLesson\AdoNetRelashionShipLesson\obj\Debug\AdoNetRelashionShipLesson.exe
+c:\users\жаксылыково\source\repos\AdoNetRelashionShipLesson\AdoNetRelashionShipLesson\obj\Debug\AdoNetRelashionShipLesson.pdb
